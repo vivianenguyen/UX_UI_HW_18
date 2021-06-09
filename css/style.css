@@ -19,7 +19,7 @@ img {
   background-color: #ffffff;
 }
 
-button {
+a {
     display: flex;
     display: grid;
     justify-content: center;
