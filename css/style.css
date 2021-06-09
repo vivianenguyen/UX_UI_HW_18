@@ -1,0 +1,64 @@
+img {
+    display:inline-block;
+    vertical-align:center;
+}
+
+.image-container {
+    max-width: 300px;
+    height:auto;
+    text-align: center;
+    line-height:300px;
+}
+
+.personalQuote {
+  text-align: center;  
+  width: center auto;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #ffffff;
+}
+
+button {
+    display: flex;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+    background-color: #C19B9B;
+    border: none;
+    color: black;
+    top:50%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+.myWork {
+    display: flex;
+    align-items: center;
+}
+
+.gotFood {
+    font-size: 18px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight:normal;
+}
+
+.departmentOfHomelandSecurity {
+    font-size: 18px;
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight:normal;
+}
+
+.button2 .button3 {
+    text-align: center;
+}
+
+
